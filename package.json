@@ -7,10 +7,7 @@
 	"type": "module",
 	"files":
 	[
-		"favicons/",
-		"fonts/",
-		"icons/",
-		"logos/",
+		"dist/",
 		"package.json",
 		"README.md"
 	],

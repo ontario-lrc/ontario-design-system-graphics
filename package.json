@@ -1,0 +1,38 @@
+{
+	"name": "@ontario-lrc/ontario-design-system-graphics",
+	"version": "1.0.0",
+	"private": false,
+	"description": "Images, iconography, and other graphical elements needed for the ODS.",
+	"license": "Apache-2.0",
+	"type": "module",
+	"files":
+	[
+		"favicons/",
+		"fonts/",
+		"icons/",
+		"logos/",
+		"package.json",
+		"README.md"
+	],
+	"publishConfig":
+	{
+		"access": "public"
+	},
+	"authors":
+	[
+		{
+			"name": "Dawid Kasperowicz",
+			"email": "dawid.kasperowicz@ontario.ca"
+		}
+	],
+	"repository":
+	{
+		"type": "git",
+		"url": "git+https://github.com/ontario-lrc/ontario-design-system-graphics.git"
+	},
+	"bugs":
+	{
+		"url": "https://github.com/ontario-lrc/ontario-design-system-graphics/issues"
+	},
+	"homepage": "https://github.com/ontario-lrc/ontario-design-system-graphics"
+}
